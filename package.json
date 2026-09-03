@@ -1,0 +1,10 @@
+{
+  "name": "client-backend",
+  "version": "0.0.1",
+  "description": "Backend API para clientes de Áurea",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
